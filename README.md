@@ -1,10 +1,10 @@
 <h1 align="center"> Mini-guia-de-estudo-neo4j </h1>
 
 
-#Objetivo
+##Objetivo
 Concluí recentemente o curso de Neo4j da Dio e, como em todo novo aprendizado, ainda tenho dúvidas. Desenvolvi este notebooklm para me auxiliar na implementação dos meus conhecimentos.
 
-#Fontes
+##Fontes
 
 https://neo4j.com/docs/cypher-manual/current/queries/
 https://neo4j.com/docs/cypher-manual/current/clauses/
